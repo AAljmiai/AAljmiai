@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 
 <a>
 <img src=https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=30 style="margin-bottom: 5px;" />
-</a>
-<a>
+</a> <a>
 <img src=https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30              style="margin-bottom: 5px;" />
 </a>
 <a>
