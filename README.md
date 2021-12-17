@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AAljmiai/AAljmiai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey 👋, I'm Mortaja Alqassab!  
+## Hey 👋, I'm Ahmed Aljmiai!  
   
 
 <a href="https://github.com/AAljmiai" target="_blank">
