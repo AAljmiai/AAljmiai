@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white alt=apachekafka style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/aljmiaiahmed" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white alt=kibana style="margin-bottom: 5px;" />
 </a>  
 
 <!-- <a>
