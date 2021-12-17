@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/Elastic%20Search-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white alt=elasticsearch style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/AAljmiai" target="_blank">
-<img src=https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white alt=apachekafka style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/apachekafka-%23231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white alt=apachekafka style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/aljmiaiahmed" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
