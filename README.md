@@ -42,5 +42,4 @@ Here are some ideas to get you started:
 <br/> 
 
 
-<img src=https://img.shields.io/badge/-Python-61DAFB?logo=react&logoColor=white&logoWidth=30 alt=github style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
