@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/AAljmiai" target="_blank">
 <img src=https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white alt=Python style="margin-bottom: 5px;" />
 </a>
+</a>
+<a href="https://linkedin.com/in/aljmiaiahmed" target="_blank">
+<img src=https://img.shields.io/badge/Kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white alt=Kotlin style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.kaggle.com/AAljmiai" target="_blank">
 <img src=https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white alt=Java style="margin-bottom: 5px;" />
 </a>
@@ -53,10 +57,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.kaggle.com/AAljmiai" target="_blank">
 <img src=https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c++&logoColor=white alt=C++ style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/aljmiaiahmed" target="_blank">
-<img src=https://img.shields.io/badge/Kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white alt=Kotlin style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.kaggle.com/AAljmiai" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
