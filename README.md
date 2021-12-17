@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/Python-%2324292e.svg?&style=for-the-badge&logo=python&logoColor=white alt=python style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/AAljmiai" target="_blank">
-<img src=https://img.shields.io/badge/Java-%2007396.svg?&style=for-the-badge&logo=java&logoColor=white alt=java style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Java.svg?&style=for-the-badge&logo=java&logoColor=white alt=java style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/aljmiaiahmed" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
